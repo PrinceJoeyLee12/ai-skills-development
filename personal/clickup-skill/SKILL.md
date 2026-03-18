@@ -1,18 +1,12 @@
 ---
 name: claw-clickup
 description: >
-  Claw's ClickUp skill — the single entry point for ALL ClickUp operations in Joey Lee's
-  OpenClaw system. Triggers on: "calendar", "schedule", "what's due", "my tasks", "today",
-  "this week", "overdue", "summary", pulling tasks, listing tasks by domain, creating tasks,
-  updating tasks, setting or reading custom fields (ABC Category, Categorize, Budget, Actual
-  Spend, Income, Partial Payment, Is Paid, In Debt To, Progress, Documentation, Testing Scripts,
-  Deployment), adding or removing tags, filtering by tag or field, financial planning, budget
-  review, expense tracking, income tracking, monthly rollup, cash flow, debt tracking, payment
-  reminders, starting or stopping a ClickUp timer, logging time entries, checking running timers,
-  or analyzing workspace health across any of Joey's life domains (Personal, Pickpacer, Running,
-  Athletes, Family, Wife/Love, Hardlix). Use this skill whenever the user mentions tasks, ClickUp,
-  finances, budgets, money, timers, tags, deadlines, calendar, schedule, overdue items, priorities,
-  or any of Joey's life domains.
+  Claw's ClickUp skill for Joey Lee's OpenClaw system. Use for any ClickUp task:
+  calendar summary, schedule, due today, overdue, pulling or creating tasks, custom
+  fields (ABC Category, Categorize, Budget, Actual Spend, Income, Is Paid, Progress),
+  tags, financial planning, budget vs actual, expense tracking, income tracking, cash
+  flow, debt and payment status, timers, time logging, or workspace health across all
+  domains: Personal, Pickpacer, Running, Athletes, Family, Wife/Love, Hardlix.
 ---
 
 # Claw ClickUp Skill
